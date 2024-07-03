@@ -1,0 +1,200 @@
+C:\Users\aldoa\OneDrive\Escritorio\U3DWI3\U3DWI\U3DWI\bin\U3DWI.dll.config
+C:\Users\aldoa\OneDrive\Escritorio\U3DWI3\U3DWI\U3DWI\bin\U3DWI.dll
+C:\Users\aldoa\OneDrive\Escritorio\U3DWI3\U3DWI\U3DWI\bin\U3DWI.pdb
+C:\Users\aldoa\OneDrive\Escritorio\U3DWI3\U3DWI\U3DWI\bin\roslyn\csc.exe
+C:\Users\aldoa\OneDrive\Escritorio\U3DWI3\U3DWI\U3DWI\bin\roslyn\csc.exe.config
+C:\Users\aldoa\OneDrive\Escritorio\U3DWI3\U3DWI\U3DWI\bin\roslyn\csc.rsp
+C:\Users\aldoa\OneDrive\Escritorio\U3DWI3\U3DWI\U3DWI\bin\roslyn\csi.exe
+C:\Users\aldoa\OneDrive\Escritorio\U3DWI3\U3DWI\U3DWI\bin\roslyn\csi.exe.config
+C:\Users\aldoa\OneDrive\Escritorio\U3DWI3\U3DWI\U3DWI\bin\roslyn\csi.rsp
+C:\Users\aldoa\OneDrive\Escritorio\U3DWI3\U3DWI\U3DWI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\aldoa\OneDrive\Escritorio\U3DWI3\U3DWI\U3DWI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\aldoa\OneDrive\Escritorio\U3DWI3\U3DWI\U3DWI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\aldoa\OneDrive\Escritorio\U3DWI3\U3DWI\U3DWI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\aldoa\OneDrive\Escritorio\U3DWI3\U3DWI\U3DWI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\aldoa\OneDrive\Escritorio\U3DWI3\U3DWI\U3DWI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\aldoa\OneDrive\Escritorio\U3DWI3\U3DWI\U3DWI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\aldoa\OneDrive\Escritorio\U3DWI3\U3DWI\U3DWI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\aldoa\OneDrive\Escritorio\U3DWI3\U3DWI\U3DWI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\aldoa\OneDrive\Escritorio\U3DWI3\U3DWI\U3DWI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\aldoa\OneDrive\Escritorio\U3DWI3\U3DWI\U3DWI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\aldoa\OneDrive\Escritorio\U3DWI3\U3DWI\U3DWI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\aldoa\OneDrive\Escritorio\U3DWI3\U3DWI\U3DWI\bin\roslyn\System.AppContext.dll
+C:\Users\aldoa\OneDrive\Escritorio\U3DWI3\U3DWI\U3DWI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\aldoa\OneDrive\Escritorio\U3DWI3\U3DWI\U3DWI\bin\roslyn\System.Console.dll
+C:\Users\aldoa\OneDrive\Escritorio\U3DWI3\U3DWI\U3DWI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\aldoa\OneDrive\Escritorio\U3DWI3\U3DWI\U3DWI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\aldoa\OneDrive\Escritorio\U3DWI3\U3DWI\U3DWI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\aldoa\OneDrive\Escritorio\U3DWI3\U3DWI\U3DWI\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\aldoa\OneDrive\Escritorio\U3DWI3\U3DWI\U3DWI\bin\roslyn\System.IO.Compression.dll
+C:\Users\aldoa\OneDrive\Escritorio\U3DWI3\U3DWI\U3DWI\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\aldoa\OneDrive\Escritorio\U3DWI3\U3DWI\U3DWI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\aldoa\OneDrive\Escritorio\U3DWI3\U3DWI\U3DWI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\aldoa\OneDrive\Escritorio\U3DWI3\U3DWI\U3DWI\bin\roslyn\System.Net.Http.dll
+C:\Users\aldoa\OneDrive\Escritorio\U3DWI3\U3DWI\U3DWI\bin\roslyn\System.Net.Sockets.dll
+C:\Users\aldoa\OneDrive\Escritorio\U3DWI3\U3DWI\U3DWI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\aldoa\OneDrive\Escritorio\U3DWI3\U3DWI\U3DWI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\aldoa\OneDrive\Escritorio\U3DWI3\U3DWI\U3DWI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\aldoa\OneDrive\Escritorio\U3DWI3\U3DWI\U3DWI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\aldoa\OneDrive\Escritorio\U3DWI3\U3DWI\U3DWI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\aldoa\OneDrive\Escritorio\U3DWI3\U3DWI\U3DWI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\aldoa\OneDrive\Escritorio\U3DWI3\U3DWI\U3DWI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\aldoa\OneDrive\Escritorio\U3DWI3\U3DWI\U3DWI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\aldoa\OneDrive\Escritorio\U3DWI3\U3DWI\U3DWI\bin\roslyn\System.ValueTuple.dll
+C:\Users\aldoa\OneDrive\Escritorio\U3DWI3\U3DWI\U3DWI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\aldoa\OneDrive\Escritorio\U3DWI3\U3DWI\U3DWI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\aldoa\OneDrive\Escritorio\U3DWI3\U3DWI\U3DWI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\aldoa\OneDrive\Escritorio\U3DWI3\U3DWI\U3DWI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\aldoa\OneDrive\Escritorio\U3DWI3\U3DWI\U3DWI\bin\roslyn\vbc.exe
+C:\Users\aldoa\OneDrive\Escritorio\U3DWI3\U3DWI\U3DWI\bin\roslyn\vbc.exe.config
+C:\Users\aldoa\OneDrive\Escritorio\U3DWI3\U3DWI\U3DWI\bin\roslyn\vbc.rsp
+C:\Users\aldoa\OneDrive\Escritorio\U3DWI3\U3DWI\U3DWI\bin\roslyn\VBCSCompiler.exe
+C:\Users\aldoa\OneDrive\Escritorio\U3DWI3\U3DWI\U3DWI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\aldoa\OneDrive\Escritorio\U3DWI3\U3DWI\U3DWI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\aldoa\OneDrive\Escritorio\U3DWI3\U3DWI\U3DWI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\aldoa\OneDrive\Escritorio\U3DWI3\U3DWI\U3DWI\obj\Debug\U3DWI.csproj.AssemblyReference.cache
+C:\Users\aldoa\OneDrive\Escritorio\U3DWI3\U3DWI\U3DWI\obj\Debug\U3DWI.csproj.CoreCompileInputs.cache
+C:\Users\aldoa\OneDrive\Escritorio\U3DWI3\U3DWI\U3DWI\obj\Debug\U3DWI.csproj.Up2Date
+C:\Users\aldoa\OneDrive\Escritorio\U3DWI3\U3DWI\U3DWI\obj\Debug\U3DWI.dll
+C:\Users\aldoa\OneDrive\Escritorio\U3DWI3\U3DWI\U3DWI\obj\Debug\U3DWI.pdb
+C:\Users\aldoa\OneDrive\Escritorio\U3DWI3\U3DWI\U3DWI\bin\mili.dll
+C:\Users\aldoa\OneDrive\Escritorio\U3DWI3\U3DWI\U3DWI\bin\MySql.Data.dll
+C:\Users\aldoa\OneDrive\Escritorio\U3DWI3\U3DWI\U3DWI\bin\System.Memory.dll
+C:\Users\aldoa\OneDrive\Escritorio\U3DWI3\U3DWI\U3DWI\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\aldoa\OneDrive\Escritorio\U3DWI3\U3DWI\U3DWI\bin\System.Numerics.Vectors.dll
+C:\Users\aldoa\OneDrive\Escritorio\U3DWI3\U3DWI\U3DWI\bin\System.Buffers.dll
+C:\Users\aldoa\OneDrive\Escritorio\U3DWI3\U3DWI\U3DWI\bin\mili.pdb
+C:\Users\aldoa\OneDrive\Escritorio\U3DWI3\U3DWI\U3DWI\bin\MySql.Data.xml
+C:\Users\Dylan\Desktop\9no\U3DWI\U3DWI\U3DWI\bin\U3DWI.dll.config
+C:\Users\Dylan\Desktop\9no\U3DWI\U3DWI\U3DWI\bin\U3DWI.dll
+C:\Users\Dylan\Desktop\9no\U3DWI\U3DWI\U3DWI\bin\U3DWI.pdb
+C:\Users\Dylan\Desktop\9no\U3DWI\U3DWI\U3DWI\bin\roslyn\csc.exe
+C:\Users\Dylan\Desktop\9no\U3DWI\U3DWI\U3DWI\bin\roslyn\csc.exe.config
+C:\Users\Dylan\Desktop\9no\U3DWI\U3DWI\U3DWI\bin\roslyn\csc.rsp
+C:\Users\Dylan\Desktop\9no\U3DWI\U3DWI\U3DWI\bin\roslyn\csi.exe
+C:\Users\Dylan\Desktop\9no\U3DWI\U3DWI\U3DWI\bin\roslyn\csi.exe.config
+C:\Users\Dylan\Desktop\9no\U3DWI\U3DWI\U3DWI\bin\roslyn\csi.rsp
+C:\Users\Dylan\Desktop\9no\U3DWI\U3DWI\U3DWI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dylan\Desktop\9no\U3DWI\U3DWI\U3DWI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dylan\Desktop\9no\U3DWI\U3DWI\U3DWI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Dylan\Desktop\9no\U3DWI\U3DWI\U3DWI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dylan\Desktop\9no\U3DWI\U3DWI\U3DWI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Dylan\Desktop\9no\U3DWI\U3DWI\U3DWI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dylan\Desktop\9no\U3DWI\U3DWI\U3DWI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dylan\Desktop\9no\U3DWI\U3DWI\U3DWI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Dylan\Desktop\9no\U3DWI\U3DWI\U3DWI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Dylan\Desktop\9no\U3DWI\U3DWI\U3DWI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Dylan\Desktop\9no\U3DWI\U3DWI\U3DWI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dylan\Desktop\9no\U3DWI\U3DWI\U3DWI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Dylan\Desktop\9no\U3DWI\U3DWI\U3DWI\bin\roslyn\System.AppContext.dll
+C:\Users\Dylan\Desktop\9no\U3DWI\U3DWI\U3DWI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dylan\Desktop\9no\U3DWI\U3DWI\U3DWI\bin\roslyn\System.Console.dll
+C:\Users\Dylan\Desktop\9no\U3DWI\U3DWI\U3DWI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dylan\Desktop\9no\U3DWI\U3DWI\U3DWI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Dylan\Desktop\9no\U3DWI\U3DWI\U3DWI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Dylan\Desktop\9no\U3DWI\U3DWI\U3DWI\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Dylan\Desktop\9no\U3DWI\U3DWI\U3DWI\bin\roslyn\System.IO.Compression.dll
+C:\Users\Dylan\Desktop\9no\U3DWI\U3DWI\U3DWI\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Dylan\Desktop\9no\U3DWI\U3DWI\U3DWI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Dylan\Desktop\9no\U3DWI\U3DWI\U3DWI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Dylan\Desktop\9no\U3DWI\U3DWI\U3DWI\bin\roslyn\System.Net.Http.dll
+C:\Users\Dylan\Desktop\9no\U3DWI\U3DWI\U3DWI\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Dylan\Desktop\9no\U3DWI\U3DWI\U3DWI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dylan\Desktop\9no\U3DWI\U3DWI\U3DWI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Dylan\Desktop\9no\U3DWI\U3DWI\U3DWI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Dylan\Desktop\9no\U3DWI\U3DWI\U3DWI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Dylan\Desktop\9no\U3DWI\U3DWI\U3DWI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Dylan\Desktop\9no\U3DWI\U3DWI\U3DWI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Dylan\Desktop\9no\U3DWI\U3DWI\U3DWI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Dylan\Desktop\9no\U3DWI\U3DWI\U3DWI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Dylan\Desktop\9no\U3DWI\U3DWI\U3DWI\bin\roslyn\System.ValueTuple.dll
+C:\Users\Dylan\Desktop\9no\U3DWI\U3DWI\U3DWI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Dylan\Desktop\9no\U3DWI\U3DWI\U3DWI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Dylan\Desktop\9no\U3DWI\U3DWI\U3DWI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Dylan\Desktop\9no\U3DWI\U3DWI\U3DWI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Dylan\Desktop\9no\U3DWI\U3DWI\U3DWI\bin\roslyn\vbc.exe
+C:\Users\Dylan\Desktop\9no\U3DWI\U3DWI\U3DWI\bin\roslyn\vbc.exe.config
+C:\Users\Dylan\Desktop\9no\U3DWI\U3DWI\U3DWI\bin\roslyn\vbc.rsp
+C:\Users\Dylan\Desktop\9no\U3DWI\U3DWI\U3DWI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dylan\Desktop\9no\U3DWI\U3DWI\U3DWI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dylan\Desktop\9no\U3DWI\U3DWI\U3DWI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dylan\Desktop\9no\U3DWI\U3DWI\U3DWI\bin\mili.dll
+C:\Users\Dylan\Desktop\9no\U3DWI\U3DWI\U3DWI\bin\MySql.Data.dll
+C:\Users\Dylan\Desktop\9no\U3DWI\U3DWI\U3DWI\bin\System.Memory.dll
+C:\Users\Dylan\Desktop\9no\U3DWI\U3DWI\U3DWI\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Dylan\Desktop\9no\U3DWI\U3DWI\U3DWI\bin\System.Numerics.Vectors.dll
+C:\Users\Dylan\Desktop\9no\U3DWI\U3DWI\U3DWI\bin\System.Buffers.dll
+C:\Users\Dylan\Desktop\9no\U3DWI\U3DWI\U3DWI\bin\mili.pdb
+C:\Users\Dylan\Desktop\9no\U3DWI\U3DWI\U3DWI\bin\MySql.Data.xml
+C:\Users\Dylan\Desktop\9no\U3DWI\U3DWI\U3DWI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dylan\Desktop\9no\U3DWI\U3DWI\U3DWI\obj\Debug\U3DWI.csproj.AssemblyReference.cache
+C:\Users\Dylan\Desktop\9no\U3DWI\U3DWI\U3DWI\obj\Debug\U3DWI.csproj.CoreCompileInputs.cache
+C:\Users\Dylan\Desktop\9no\U3DWI\U3DWI\U3DWI\obj\Debug\U3DWI.csproj.Up2Date
+C:\Users\Dylan\Desktop\9no\U3DWI\U3DWI\U3DWI\obj\Debug\U3DWI.dll
+C:\Users\Dylan\Desktop\9no\U3DWI\U3DWI\U3DWI\obj\Debug\U3DWI.pdb
+C:\Users\chune buttowsky\OneDrive\Escritorio\web\Meyer\U3DWI\U3DWI\bin\U3DWI.dll.config
+C:\Users\chune buttowsky\OneDrive\Escritorio\web\Meyer\U3DWI\U3DWI\bin\U3DWI.dll
+C:\Users\chune buttowsky\OneDrive\Escritorio\web\Meyer\U3DWI\U3DWI\bin\U3DWI.pdb
+C:\Users\chune buttowsky\OneDrive\Escritorio\web\Meyer\U3DWI\U3DWI\bin\roslyn\csc.exe
+C:\Users\chune buttowsky\OneDrive\Escritorio\web\Meyer\U3DWI\U3DWI\bin\roslyn\csc.exe.config
+C:\Users\chune buttowsky\OneDrive\Escritorio\web\Meyer\U3DWI\U3DWI\bin\roslyn\csc.rsp
+C:\Users\chune buttowsky\OneDrive\Escritorio\web\Meyer\U3DWI\U3DWI\bin\roslyn\csi.exe
+C:\Users\chune buttowsky\OneDrive\Escritorio\web\Meyer\U3DWI\U3DWI\bin\roslyn\csi.exe.config
+C:\Users\chune buttowsky\OneDrive\Escritorio\web\Meyer\U3DWI\U3DWI\bin\roslyn\csi.rsp
+C:\Users\chune buttowsky\OneDrive\Escritorio\web\Meyer\U3DWI\U3DWI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\chune buttowsky\OneDrive\Escritorio\web\Meyer\U3DWI\U3DWI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\chune buttowsky\OneDrive\Escritorio\web\Meyer\U3DWI\U3DWI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\chune buttowsky\OneDrive\Escritorio\web\Meyer\U3DWI\U3DWI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\chune buttowsky\OneDrive\Escritorio\web\Meyer\U3DWI\U3DWI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\chune buttowsky\OneDrive\Escritorio\web\Meyer\U3DWI\U3DWI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\chune buttowsky\OneDrive\Escritorio\web\Meyer\U3DWI\U3DWI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\chune buttowsky\OneDrive\Escritorio\web\Meyer\U3DWI\U3DWI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\chune buttowsky\OneDrive\Escritorio\web\Meyer\U3DWI\U3DWI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\chune buttowsky\OneDrive\Escritorio\web\Meyer\U3DWI\U3DWI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\chune buttowsky\OneDrive\Escritorio\web\Meyer\U3DWI\U3DWI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\chune buttowsky\OneDrive\Escritorio\web\Meyer\U3DWI\U3DWI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\chune buttowsky\OneDrive\Escritorio\web\Meyer\U3DWI\U3DWI\bin\roslyn\System.AppContext.dll
+C:\Users\chune buttowsky\OneDrive\Escritorio\web\Meyer\U3DWI\U3DWI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\chune buttowsky\OneDrive\Escritorio\web\Meyer\U3DWI\U3DWI\bin\roslyn\System.Console.dll
+C:\Users\chune buttowsky\OneDrive\Escritorio\web\Meyer\U3DWI\U3DWI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\chune buttowsky\OneDrive\Escritorio\web\Meyer\U3DWI\U3DWI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\chune buttowsky\OneDrive\Escritorio\web\Meyer\U3DWI\U3DWI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\chune buttowsky\OneDrive\Escritorio\web\Meyer\U3DWI\U3DWI\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\chune buttowsky\OneDrive\Escritorio\web\Meyer\U3DWI\U3DWI\bin\roslyn\System.IO.Compression.dll
+C:\Users\chune buttowsky\OneDrive\Escritorio\web\Meyer\U3DWI\U3DWI\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\chune buttowsky\OneDrive\Escritorio\web\Meyer\U3DWI\U3DWI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\chune buttowsky\OneDrive\Escritorio\web\Meyer\U3DWI\U3DWI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\chune buttowsky\OneDrive\Escritorio\web\Meyer\U3DWI\U3DWI\bin\roslyn\System.Net.Http.dll
+C:\Users\chune buttowsky\OneDrive\Escritorio\web\Meyer\U3DWI\U3DWI\bin\roslyn\System.Net.Sockets.dll
+C:\Users\chune buttowsky\OneDrive\Escritorio\web\Meyer\U3DWI\U3DWI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\chune buttowsky\OneDrive\Escritorio\web\Meyer\U3DWI\U3DWI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\chune buttowsky\OneDrive\Escritorio\web\Meyer\U3DWI\U3DWI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\chune buttowsky\OneDrive\Escritorio\web\Meyer\U3DWI\U3DWI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\chune buttowsky\OneDrive\Escritorio\web\Meyer\U3DWI\U3DWI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\chune buttowsky\OneDrive\Escritorio\web\Meyer\U3DWI\U3DWI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\chune buttowsky\OneDrive\Escritorio\web\Meyer\U3DWI\U3DWI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\chune buttowsky\OneDrive\Escritorio\web\Meyer\U3DWI\U3DWI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\chune buttowsky\OneDrive\Escritorio\web\Meyer\U3DWI\U3DWI\bin\roslyn\System.ValueTuple.dll
+C:\Users\chune buttowsky\OneDrive\Escritorio\web\Meyer\U3DWI\U3DWI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\chune buttowsky\OneDrive\Escritorio\web\Meyer\U3DWI\U3DWI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\chune buttowsky\OneDrive\Escritorio\web\Meyer\U3DWI\U3DWI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\chune buttowsky\OneDrive\Escritorio\web\Meyer\U3DWI\U3DWI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\chune buttowsky\OneDrive\Escritorio\web\Meyer\U3DWI\U3DWI\bin\roslyn\vbc.exe
+C:\Users\chune buttowsky\OneDrive\Escritorio\web\Meyer\U3DWI\U3DWI\bin\roslyn\vbc.exe.config
+C:\Users\chune buttowsky\OneDrive\Escritorio\web\Meyer\U3DWI\U3DWI\bin\roslyn\vbc.rsp
+C:\Users\chune buttowsky\OneDrive\Escritorio\web\Meyer\U3DWI\U3DWI\bin\roslyn\VBCSCompiler.exe
+C:\Users\chune buttowsky\OneDrive\Escritorio\web\Meyer\U3DWI\U3DWI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\chune buttowsky\OneDrive\Escritorio\web\Meyer\U3DWI\U3DWI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\chune buttowsky\OneDrive\Escritorio\web\Meyer\U3DWI\U3DWI\bin\mili.dll
+C:\Users\chune buttowsky\OneDrive\Escritorio\web\Meyer\U3DWI\U3DWI\bin\System.Memory.dll
+C:\Users\chune buttowsky\OneDrive\Escritorio\web\Meyer\U3DWI\U3DWI\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\chune buttowsky\OneDrive\Escritorio\web\Meyer\U3DWI\U3DWI\bin\System.Numerics.Vectors.dll
+C:\Users\chune buttowsky\OneDrive\Escritorio\web\Meyer\U3DWI\U3DWI\bin\System.Buffers.dll
+C:\Users\chune buttowsky\OneDrive\Escritorio\web\Meyer\U3DWI\U3DWI\bin\mili.pdb
+C:\Users\chune buttowsky\OneDrive\Escritorio\web\Meyer\U3DWI\U3DWI\bin\MySql.Data.xml
+C:\Users\chune buttowsky\OneDrive\Escritorio\web\Meyer\U3DWI\U3DWI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\chune buttowsky\OneDrive\Escritorio\web\Meyer\U3DWI\U3DWI\obj\Debug\U3DWI.csproj.AssemblyReference.cache
+C:\Users\chune buttowsky\OneDrive\Escritorio\web\Meyer\U3DWI\U3DWI\obj\Debug\U3DWI.csproj.CoreCompileInputs.cache
+C:\Users\chune buttowsky\OneDrive\Escritorio\web\Meyer\U3DWI\U3DWI\obj\Debug\U3DWI.csproj.Up2Date
+C:\Users\chune buttowsky\OneDrive\Escritorio\web\Meyer\U3DWI\U3DWI\obj\Debug\U3DWI.dll
+C:\Users\chune buttowsky\OneDrive\Escritorio\web\Meyer\U3DWI\U3DWI\obj\Debug\U3DWI.pdb

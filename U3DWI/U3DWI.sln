@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "U3DWI", "U3DWI\U3DWI.csproj", "{895C79F1-92C7-4D3C-BD1B-E00503C71543}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mili", "mili\mili.csproj", "{3D2F2442-1043-4FFE-BEC3-44B96AAE0DED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{895C79F1-92C7-4D3C-BD1B-E00503C71543}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{895C79F1-92C7-4D3C-BD1B-E00503C71543}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{895C79F1-92C7-4D3C-BD1B-E00503C71543}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{895C79F1-92C7-4D3C-BD1B-E00503C71543}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D2F2442-1043-4FFE-BEC3-44B96AAE0DED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D2F2442-1043-4FFE-BEC3-44B96AAE0DED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D2F2442-1043-4FFE-BEC3-44B96AAE0DED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D2F2442-1043-4FFE-BEC3-44B96AAE0DED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {406D6CB2-68A1-4211-BD47-A1D867AC180B}
+	EndGlobalSection
+EndGlobal
